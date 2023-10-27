@@ -10,7 +10,6 @@ const Currency = () => {
 				payload: val,
 			})
 	}
-
     /*const styles={
         hover: { backgroundcolor: 'red', border:'1px solid red' }
     }*/
